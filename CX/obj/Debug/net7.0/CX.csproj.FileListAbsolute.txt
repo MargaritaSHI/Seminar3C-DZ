@@ -1,0 +1,15 @@
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.csproj.AssemblyReference.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.AssemblyInfoInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.AssemblyInfo.cs
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.csproj.CoreCompileInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\bin\Debug\net7.0\CX.exe
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\bin\Debug\net7.0\CX.deps.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\bin\Debug\net7.0\CX.runtimeconfig.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\bin\Debug\net7.0\CX.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\bin\Debug\net7.0\CX.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\refint\CX.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\CX.genruntimeconfig.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\CX\obj\Debug\net7.0\ref\CX.dll
