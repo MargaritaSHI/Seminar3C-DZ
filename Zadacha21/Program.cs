@@ -19,7 +19,7 @@ static int GetUserNumber(string message)
     {
         Console.WriteLine(message);
         int userImput;
-        if (int.TryParse(Console.ReadLine(), out int userImput))
+        if (int.TryParse(Console.ReadLine(), out userImput))
         {
             return userImput;
         }

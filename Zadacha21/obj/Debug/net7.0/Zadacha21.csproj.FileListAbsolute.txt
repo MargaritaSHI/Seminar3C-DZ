@@ -3,3 +3,13 @@ C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\n
 C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\Zadacha21.AssemblyInfoInputs.cache
 C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\Zadacha21.AssemblyInfo.cs
 C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\Zadacha21.csproj.CoreCompileInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\bin\Debug\net7.0\Zadacha21.exe
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\bin\Debug\net7.0\Zadacha21.deps.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\bin\Debug\net7.0\Zadacha21.runtimeconfig.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\bin\Debug\net7.0\Zadacha21.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\bin\Debug\net7.0\Zadacha21.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\Zadacha21.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\refint\Zadacha21.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\Zadacha21.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\Zadacha21.genruntimeconfig.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha21\obj\Debug\net7.0\ref\Zadacha21.dll
