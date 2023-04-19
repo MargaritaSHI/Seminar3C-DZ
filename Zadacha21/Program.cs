@@ -19,9 +19,9 @@ static int GetUserNumber(string message)
     {
         Console.WriteLine(message);
         int userImput;
-        if (int.TryParse(Console.Readline(), out userImput))
+        if (int.TryParse(Console.ReadLine(), out int userImput))
         {
-            return (userImput);
+            return userImput;
         }
         else Console.WriteLine("Введены некорректные данные"); 
     }
