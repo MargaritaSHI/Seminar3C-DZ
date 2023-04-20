@@ -1,0 +1,15 @@
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\bin\Debug\net7.0\Zadacha23.exe
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\bin\Debug\net7.0\Zadacha23.deps.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\bin\Debug\net7.0\Zadacha23.runtimeconfig.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\bin\Debug\net7.0\Zadacha23.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\bin\Debug\net7.0\Zadacha23.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.csproj.AssemblyReference.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.AssemblyInfoInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.AssemblyInfo.cs
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.csproj.CoreCompileInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\refint\Zadacha23.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\Zadacha23.genruntimeconfig.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar3DZ\Zadacha23\obj\Debug\net7.0\ref\Zadacha23.dll
